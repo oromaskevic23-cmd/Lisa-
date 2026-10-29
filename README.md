@@ -103,7 +103,7 @@ Read [Security policy](SECURITY.md), [Token facts and verification](docs/TOKEN-F
 - [CRYPTO IMPERIAL Ecosystem](https://github.com/oromaskevic23-cmd/CRYPTO-IMPERIAL-Ecosystem-Public)
 - [IMPERIUM](https://github.com/oromaskevic23-cmd/IMPERIUM-) — **a long-term architectural digital currency envisioned for AI agents worldwide**, not a claim of present worldwide adoption
 - [NDB](https://github.com/oromaskevic23-cmd/N.D.B-)
-- [IMPERIAL Core](https://github.com/oromaskevic23-cmd/IMPERIAL-Core-)
+- [IMPERIAL Core](https://github.com/oromaskevic23-cmd/Capital--Core-Public)
 
 LISA, IMPERIUM and NDB have **distinct token identities**. Being presented within the same ecosystem does not establish common liquidity, convertibility or financial guarantees.
 
