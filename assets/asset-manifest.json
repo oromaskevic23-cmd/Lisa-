@@ -1,0 +1,14 @@
+{
+  "schema": "imperial_asset_manifest_v1",
+  "project": "LISA",
+  "path": "assets/lisa-fox-emblem.png",
+  "mediaType": "image/png",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "bytes": 2336690,
+  "sha256": "b039ef3018be30214ba7fc5678e6e3561beec90ac5ced5ba34b29ef827fdf4b6",
+  "provenance": "owner-selected original PNG, 2026-10-29",
+  "transformation": "none"
+}

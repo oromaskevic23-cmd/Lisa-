@@ -1,0 +1,32 @@
+name: LISA presentation integrity
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "docs/**"
+      - "assets/**"
+      - "scripts/**"
+      - ".github/workflows/presentation-integrity.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "docs/**"
+      - "assets/**"
+      - "scripts/**"
+      - ".github/workflows/presentation-integrity.yml"
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: lisa-presentation-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  integrity:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout reviewed revision
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Check original image and presentation
+        run: python3 scripts/verify_presentation.py
