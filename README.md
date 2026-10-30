@@ -1,3 +1,5 @@
+**Project creator / founding architect:** Alexander Nikolaevich Romaskevich (RomaskevicH). [Authorship](AUTHORS.md) · [License review](governance/LICENSE_INVENTORY.md).
+
 <p align="center">
   <img src="assets/lisa-fox-emblem.png" alt="LISA — original angular orange fox emblem on a gold-and-black coin" width="510">
 </p>
