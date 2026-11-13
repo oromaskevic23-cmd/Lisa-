@@ -1,12 +1,13 @@
 <p align="center">
+  <img src="assets/lisa-fox-emblem.png" alt="LISA — original angular orange fox emblem on a gold-and-black coin" width="510">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/oromaskevic23-cmd/oromaskevic23-cmd/main/assets/alexander-romaskevich-portrait-20261110.jpg" alt="Alexander Nikolaevich Romaskevich, Founder, Owner and CEO of IMPERIAL Core" width="160" />
 </p>
 
 **Project creator / founding architect:** Alexander Nikolaevich Romaskevich (RomaskevicH). [Authorship](AUTHORS.md) · [License review](governance/LICENSE_INVENTORY.md).
 
-<p align="center">
-  <img src="assets/lisa-fox-emblem.png" alt="LISA — original angular orange fox emblem on a gold-and-black coin" width="510">
-</p>
 
 <h1 align="center">LISA 🦊</h1>
 <p align="center"><strong>An independent fox-inspired meme coin initiative on Polygon</strong></p>
